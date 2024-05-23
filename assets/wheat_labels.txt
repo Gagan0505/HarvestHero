@@ -1,0 +1,4 @@
+Wheat_brown_rust
+Wheat_healthy
+Wheat_septoria 
+Wheat_yellow_rust
